@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .card_quiz {
+    background-color: aquamarine;
+  }
+  .btn_quiz {
+    width: 100%;
+    text-align: left;
+    color: crimson;
+    font-weight: 500;
+  }
+  .btn_quiz:hover {
+    background: rgb(57, 245, 245);
+  }
+  .ul_quiz li {
+    list-style-type: circle;
+    margin-left: -20px;
+    cursor: pointer;
+  }
+  .btn_left {
+    float: left;
+  }
+  .btn_right {
+    float: right;
+  }
+  .btn_right_first {
+    float: right;
+    margin-right: 5px;
+  }
